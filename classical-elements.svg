@@ -24,3 +24,9 @@
     <path d="M125,0A125,125,0,1,0,250,125,125,125,0,0,0,125,0Zm0,235c-52.47,0-95-49.25-95-110S72.53,15,125,15s95,49.25,95,110S177.47,235,125,235Z" />
   </symbol>
 </svg>
+
+<svg id="chart" data-name="chart" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 414.99 414.99">
+  <title>chart</title>
+  <rect x="100.67" y="100.67" width="278.44" height="278.44" transform="translate(207.49 -131.76) rotate(45)" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="15"/>
+  <rect x="146.24" y="146.24" width="187.29" height="187.29" transform="translate(447.38 -32.39) rotate(90)" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="15"/>
+</svg>
